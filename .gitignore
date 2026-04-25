@@ -14,3 +14,11 @@ Source/Saml2.Authentication/bin/Release/net7.0/
 Source/Saml2.Authentication/bin/Release/
 
 Source/Saml2.Authentication/obj/
+
+Source/Saml2.Authentication/bin/Debug/net10.0/
+
+*.snupkg
+
+*.nupkg
+
+*.json
